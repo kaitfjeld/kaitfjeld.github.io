@@ -4,5 +4,19 @@ body {
 .something {
     background: Lavender;
     fill:#800008;
-    opacity:0.65;
+    opacity:0.55;
+    font-size: 12pt;
+}
+.nose:hover{
+    fill:aqua
+}
+text.boop{
+    display:none;
+    fill: black;
+    font-size: 8pt;
+    opacity: 50%;
+    font-weight: bolder;
+}
+g:hover > text{
+    display:block;
 }
