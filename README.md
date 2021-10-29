@@ -1,1 +1,1 @@
-# kaitfjeld.github.io
+# Welcome to my GitHub! The bulk of the current content is for my CS 6820 Course: Data Visualization. I will be updating soon to include assignments completed throughout my MS and MS prep courses.
